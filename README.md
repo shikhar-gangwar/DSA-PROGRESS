@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
