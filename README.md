@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
