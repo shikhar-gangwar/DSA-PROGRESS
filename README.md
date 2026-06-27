@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
