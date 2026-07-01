@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
