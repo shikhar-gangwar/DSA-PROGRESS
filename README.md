@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
@@ -99,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
