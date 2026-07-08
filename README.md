@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
