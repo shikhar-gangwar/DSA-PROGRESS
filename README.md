@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
+| [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
@@ -72,9 +73,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
 ## Bit Manipulation
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0875-koko-eating-bananas) |
