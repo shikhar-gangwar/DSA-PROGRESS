@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
