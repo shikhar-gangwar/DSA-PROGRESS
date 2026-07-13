@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
