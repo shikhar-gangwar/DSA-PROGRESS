@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
+| [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 ## Brainteaser
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
