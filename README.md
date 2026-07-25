@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
