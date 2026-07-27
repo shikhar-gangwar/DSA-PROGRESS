@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
