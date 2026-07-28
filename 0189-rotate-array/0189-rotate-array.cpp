@@ -1,13 +1,23 @@
 class Solution {
 public:
-   void rotate(vector<int>& nums, int k) {
 
+// for swapping number or reverse(nums.begin(),nums.end()) aise karle 
+    void reverseArray(vector<int>& nums, int left, int right) {
+        while (left < right) {
+            swap(nums[left], nums[right]);
+            left++;
+            right--;
+        }
+    }
 
-    int n = nums.size();
-         k = k%n;
- reverse(nums.begin(),nums.end());
+    // actual reversal of array or shift by k 
 
-   reverse(nums.begin(),nums.begin()+k);  
-   reverse(nums.begin()+k,nums.end());
-}
+    void rotate(vector<int>& nums, int k) {
+        int n = nums.size();
+        k %= n;
+
+        reverseArray(nums, 0, n - 1);
+        reverseArray(nums, 0, k - 1);
+        reverseArray(nums, k, n - 1);
+    }
 };
