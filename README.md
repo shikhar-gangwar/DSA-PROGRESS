@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
