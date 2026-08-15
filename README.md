@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
