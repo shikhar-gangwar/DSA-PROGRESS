@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1108-defanging-an-ip-address) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
