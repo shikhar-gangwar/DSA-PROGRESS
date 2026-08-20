@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1901-find-a-peak-element-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 ## Brainteaser
 |  |
