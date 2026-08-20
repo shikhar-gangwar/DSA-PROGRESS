@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0292-nim-game) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
