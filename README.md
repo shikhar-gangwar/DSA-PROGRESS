@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
