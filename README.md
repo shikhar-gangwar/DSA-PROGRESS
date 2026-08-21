@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0219-contains-duplicate-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
