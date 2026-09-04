@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
