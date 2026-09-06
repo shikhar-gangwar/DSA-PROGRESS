@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0520-detect-capital](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1021-remove-outermost-parentheses) |
