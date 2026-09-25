@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
