@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
