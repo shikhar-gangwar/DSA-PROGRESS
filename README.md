@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0228-summary-ranges) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0414-third-maximum-number) |
@@ -314,4 +316,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0881-boats-to-save-people) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
