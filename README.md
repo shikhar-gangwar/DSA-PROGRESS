@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1496-path-crossing](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1496-path-crossing) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1108-defanging-an-ip-address) |
+| [1496-path-crossing](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1496-path-crossing) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1903-largest-odd-number-in-string) |
