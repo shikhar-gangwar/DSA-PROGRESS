@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Brainteaser
 |  |
 | ------- |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -333,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
