@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1903-largest-odd-number-in-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
