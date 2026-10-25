@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3477-fruits-into-baskets-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3477-fruits-into-baskets-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2974-minimum-number-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2974-minimum-number-game) |
+| [3477-fruits-into-baskets-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3477-fruits-into-baskets-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/1901-find-a-peak-element-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3477-fruits-into-baskets-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Minimax
 |  |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0196-delete-duplicate-emails) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
