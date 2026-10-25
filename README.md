@@ -359,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/shikhar-gangwar/DSA-PROGRESS/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
